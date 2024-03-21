@@ -1,2 +1,2 @@
-# Day7_Coding_Challenge-
-Creating a Hangman game 
+# Day7_Coding_Challenge_hangman_game 
+This Python script implements a classic Hangman game. It randomly selects a word from a predefined list and prompts the player to guess letters to uncover the hidden word. The player has a limited number of attempts (lives) to guess the correct letters. The script displays ASCII art representing the hangman's stages as the player progresses through incorrect guesses. Once the player either correctly guesses the word or runs out of lives, the game ends with an appropriate message indicating whether they won or lost.
